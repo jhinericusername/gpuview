@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+host/
+workspace/
+run_reports/
+data/
+*.pt
+*.pth
+*.tar.gz

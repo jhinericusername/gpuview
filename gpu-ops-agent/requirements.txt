@@ -1,0 +1,16 @@
+jsonschema==4.23.0
+pydantic==2.9.2
+python-dotenv==1.0.1
+openai==1.51.2
+streamlit==1.39.0
+requests==2.32.3
+rich==13.8.1
+psutil==6.0.0
+PyYAML==6.0.2
+click==8.1.7
+Jinja2==3.1.4
+colorama==0.4.6
+orjson==3.10.7
+python-dateutil==2.9.0.post0
+torch==2.4.0
+torchvision==0.19.0
